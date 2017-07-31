@@ -1,0 +1,52 @@
+[user]
+  name = Jose Ramon Aleman
+  email = jraleman@bendiburg.com
+
+[core]
+  editor = atom
+  whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+  excludesfile = ~/.gitignore
+
+[web]
+  browser = mozilla-firefox
+
+[push]
+  default = matching
+
+[color]
+  ui = auto
+
+[color "branch"]
+  current = yellow bold
+  local = green bold
+  remote = cyan bold
+
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = red bold
+  new = green bold
+  whitespace = red reverse
+
+[color "status"]
+  added = green bold
+  changed = yellow bold
+  untracked = red bold
+
+[difftool]
+  prompt = false
+
+[gitflow "prefix"]
+  feature = feature-
+  release = release-
+  hotfix = hotfix-
+  support = support-
+  versiontag = v
+
+[github]
+  user = jraleman
+
+[alias]
+  hist = log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
+  whois = "!sh -c 'git log -i -1 --pretty=\"format:%an <%ae>\n\" --author=\"$1\"' -"
+  whatis = show -s --pretty='tformat:%h (%s, %ad)' --date=short
