@@ -40,3 +40,7 @@ This repository exists because:
 You may use my files, as this collection is under a creative commons license.
 But be careful with using them, I'm not responsible for what it can do to your
 setup... always read the files so you know what's supposed to do.
+
+## Shoutouts
+
+Thanks [https://github.com/pbondoer](https://github.com/pbondoer/dotfiles/blob/master/osx/ox-42.sh)
