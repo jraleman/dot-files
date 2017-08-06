@@ -43,4 +43,4 @@ setup... always read the files so you know what's supposed to do.
 
 ## Shoutouts
 
-Thanks [https://github.com/pbondoer](https://github.com/pbondoer/dotfiles/blob/master/osx/ox-42.sh)
+Thanks to [Pbondoer](https://github.com/pbondoer/dotfiles/blob/master/osx/ox-42.sh)
