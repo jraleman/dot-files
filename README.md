@@ -17,13 +17,13 @@ But for the masterrace, however, they are a core tool belt.
 
 ## Screenshots
 
-### Antergos (Arch Linux based)
+### Antergos Linux (Arch Linux based)
 
 -- screenshots --
 
-### Mac OS X (Dawin)
+### Mac OS X (Darwin)
 
--- screenshots --
+![screenshot/osx_darwin.png](screenshots/osx_darwin.png)
 
 ## Reasons
 
