@@ -5,6 +5,7 @@ in files. Hence, the idea of dot files. With this way, we can do an installation
 script, and install all your preferences within minutes.
 
 Everyone is doing it, so... why not?
+
 [Let's follow the herd. ;)](https://github.com/search?utf8=%E2%9C%93&q=dot+files&type=)
 
 ## Introduction
@@ -19,11 +20,11 @@ But for the masterrace, however, they are a core tool belt.
 
 ### Antergos Linux (Arch Linux based)
 
--- screenshots --
+![Arch](screenshots/antergos_linux.png)
 
 ### Mac OS X (Darwin)
 
-![screenshot/osx_darwin.png](screenshots/osx_darwin.png)
+![Mac OS X](screenshots/osx_darwin.png)
 
 ## Reasons
 
