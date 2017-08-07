@@ -46,15 +46,15 @@ killall SystemUIServer
 
 echo "\n==================== Installing / Updating Brew ====================\n"
 # Update brew
-echo " ->    Updating brew : \c"
+echo " ->    Updating brew\c"
 brew update
 
 # Install packages if they don't exist
-for pkg in node htop tree bower; do
+for pkg in node htop tree bower valgrind; do
     if brew list -1 | grep -q "^${pkg}\$"; then
         echo "Package '$pkg' is installed"
     else
-        echo " ->    Installing package : \c"
+        echo "Installing package $pkg"
         brew install $pkg
     fi
 done
@@ -67,13 +67,14 @@ echo "\n================ Installing / Updating NPM Packages ================\n"
 
 # Clean the cache
 npm cache --force clean
+echo " ->    Updating npm\c"
 
 # Install packages if they don't exist
 for pkg in electron browser-sync; do
     if npm list -1 | grep -q "^${pkg}\$"; then
         echo "Package '$pkg' is installed"
     else
-        echo " ->    Installing package : \c"
+        echo "Installing package $pkg"
         npm install $pkg
     fi
 done
