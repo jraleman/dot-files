@@ -4,9 +4,8 @@ Setting up a new system is very easy if you already have all your configurations
 in files. Hence, the idea of dot files. With this way, we can do an installation
 script, and install all your preferences within minutes.
 
-Everyone is doing it, so... why not?
-
-[Let's follow the herd. ;)](https://github.com/search?utf8=%E2%9C%93&q=dot+files&type=)
+Everyone is doing it, so...
+[why not?](https://github.com/search?utf8=%E2%9C%93&q=dot+files&type=)
 
 ## Introduction
 
@@ -16,17 +15,7 @@ For casuals, this indicates these are not regular documents, and by default,
 these are hidden in directory listings.
 But for the masterrace, however, they are a core tool belt.
 
-## Screenshots
-
-### Antergos Linux (Arch Linux based)
-
-![Arch](screenshots/antergos_linux.png)
-
-### Mac OS X (Darwin)
-
-![Mac OS X](screenshots/osx_darwin.png)
-
-## Reasons
+## Goal of this repository
 
 This repository exists because:
 
@@ -36,6 +25,16 @@ This repository exists because:
 * I can get a system running the way you want, in a very short time.
 * Sharing is caring; people can use my files if they want. :D
 
+## Screenshots
+
+### Antergos Linux (Arch Linux based)
+
+![Arch](screenshots/antergos_linux.png)
+
+### Mac OS X (El Capitan)
+
+![Mac OS X](screenshots/osx_darwin.png)
+
 ## Disclaimer
 
 You may use my files, as this collection is under a creative commons license.
@@ -44,4 +43,7 @@ setup... always read the files so you know what's supposed to do.
 
 ## Shoutouts
 
-Thanks [https://github.com/pbondoer](https://github.com/pbondoer/dotfiles/blob/master/osx/ox-42.sh)
+Guys, your dotfiles are awesome. Keep up the good work! :D
+
+* [nicksp](https://github.com/nicksp/dotfiles)
+* [pbondoer](https://github.com/pbondoer/dotfiles)
