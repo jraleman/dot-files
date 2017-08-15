@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AlternateMouseScroll</key>
+	<true/>
 	<key>AppleAntiAliasingThreshold</key>
 	<integer>1</integer>
 	<key>AppleScrollAnimationEnabled</key>
@@ -55,9 +57,13 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>963 740 918 498 0 0 2880 1597 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>56 682 2055 672 0 0 2880 1597 </string>
+	<string>137 1051 662 402 0 0 2880 1597 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>399 260 585 402 0 0 2880 1597 </string>
+	<string>2218 1033 662 402 0 0 2880 1597 </string>
+	<key>NSWindow Frame iTerm Window 2</key>
+	<string>974 357 662 402 0 0 2880 1597 </string>
+	<key>NSWindow Frame iTerm Window 3</key>
+	<string>453 149 662 402 0 0 2880 1597 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
