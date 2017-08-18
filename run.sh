@@ -1,11 +1,15 @@
 #!/bin/sh
 
 OS_NAME=$(uname -s)
+#OS_NAME=$(uname -r)
+#sw_vers -productVersion
 
 # ---------------------------------------------------------------------------- #
 # Mac OS X - Darwin                                                            #
 # ---------------------------------------------------------------------------- #
 
+# sw_vers -productVersion ->   10.11.6
+# uname -r                ->   15.6.0
 if [ $OS_NAME == "Darwin" ] ; then
 	cd osx_darwin && sh setup.sh && cd ..
 fi
