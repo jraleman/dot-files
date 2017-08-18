@@ -29,11 +29,11 @@ This repository exists because:
 
 ### Antergos Linux (Arch Linux based)
 
-![Arch](screenshots/antergos_linux.png)
+![Antergos](screenshots/antergos_linux.png)
 
 ### Mac OS X (El Capitan)
 
-![Mac OS X](screenshots/osx_darwin.png)
+![El Capitan](screenshots/osx_darwin.png)
 
 ## Disclaimer
 
