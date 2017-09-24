@@ -47,3 +47,4 @@ Guys, your dotfiles are awesome. Keep up the good work! :D
 
 * [nicksp](https://github.com/nicksp/dotfiles)
 * [pbondoer](https://github.com/pbondoer/dotfiles)
+* [erikdubois](https://github.com/erikdubois)
