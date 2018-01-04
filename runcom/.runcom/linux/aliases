@@ -2,7 +2,7 @@
 
 # Aliases ======================================================================
 
-alias open="xdg-open"
+alias open="xdg-open &> /dev/null"
 alias refresh='browser-sync start --server --files "*/*"'
 
 # ====================================================================== Aliases
