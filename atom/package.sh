@@ -2,12 +2,18 @@
 
 # List of atom packages.
 list=("ascii-lines-sort" \
+      "atom-beautify" \
       "autocomplete-plus" \
+      "busy-signal" \
       "color-picker" \
       "json-converter" \
       "file-icons" \
       "highlight-selected" \
       "last-cursor-position" \
+      "intentions" \
+      "linter" \
+      "linter-eslint" \
+      "linter-ui-default" \
       "lines" \
       "merge-conflicts" \
       "minimap" \
