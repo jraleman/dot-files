@@ -2,7 +2,8 @@
 
 # Aliases ======================================================================
 
-alias open="xdg-open &> /dev/null"
+alias open='xdg-open &> /dev/null'
 alias refresh='browser-sync start --server --files "*/*"'
+alias save-git-pass='git config --global credential.helper "cache --timeout=3600"'
 
 # ====================================================================== Aliases
