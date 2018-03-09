@@ -17,6 +17,7 @@ list=("ascii-lines-sort" \
       "lines" \
       "merge-conflicts" \
       "minimap" \
+      "php-cs-fixer" \
       "pigments" \
       "tablr" \
       "todo-show")
