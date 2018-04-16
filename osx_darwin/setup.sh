@@ -70,7 +70,8 @@ npm cache --force clean
 echo " ->    Updating npm\c"
 
 # Install packages if they don't exist
-for pkg in electron browser-sync; do
+for pkg in electron browser-sync html-to-react-components react-native \
+            create-react-app; do
     if npm list -1 | grep -q "^${pkg}\$"; then
         echo "Package '$pkg' is installed"
     else
