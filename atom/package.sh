@@ -20,6 +20,7 @@ list=("ascii-lines-sort" \
       "php-cs-fixer" \
       "pigments" \
       "tablr" \
+      "teletype" \
       "todo-show")
 
 # Install each package one by one.
