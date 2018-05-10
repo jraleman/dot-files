@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Set the display resolution
+xrandr --output HDMI-0 --mode 4096x2160
+#xrandr --output HDMI-0 --mode 1920x1080i
