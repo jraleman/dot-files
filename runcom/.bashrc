@@ -31,4 +31,5 @@ fi
 if [ "${OS_NAME}" = "Linux" ] ; then
   [ -f $HOME/.runcom/linux/functions ] && source $HOME/.runcom/linux/functions
   [ -f $HOME/.runcom/linux/aliases ] && source $HOME/.runcom/linux/aliases
+  [ -f $HOME/.runcom/linux/env ] && source $HOME/.runcom/linux/env
 fi
