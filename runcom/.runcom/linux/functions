@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# Functions ====================================================================
-
 # Checks if a program is installed.
 # Credit: https://gist.github.com/JamieMason/4761049
 function program_is_installed {
@@ -62,5 +60,3 @@ function extract {
      echo "'$1' is not a valid file to extract"
   fi
 }
-
-# ==================================================================== Functions
