@@ -3,7 +3,6 @@
 # List of atom packages.
 list=("ascii-lines-sort" \
       "atom-beautify" \
-      "autocomplete-plus" \
       "busy-signal" \
       "color-picker" \
       "json-converter" \
