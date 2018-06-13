@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Aliases ======================================================================
+
+alias atom='open -a Atom.app'
+alias subl='open -a Sublime\ Text.app'
+alias chrome='open -a Chrome.app'
+alias firefox='open -a Firefox.app'
+alias brew="$HOME/goinfre/brew/bin/./brew"
+alias compile='python ~/.bin/compile.py'
+alias refresh='browser-sync start --server --files "*/*"'
+
+# ====================================================================== Aliases

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Profile ======================================================================
+
+# Export brew path, packages to be installed in goinfre.
+export PATH="/Volumes/Storage/goinfre/$USER/brew/bin:$PATH"
+
+# ====================================================================== Profile
