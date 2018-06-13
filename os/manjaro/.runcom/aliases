@@ -1,0 +1,14 @@
+#!/bin/sh
+
+alias cp="cp -i"
+alias df='df -h'
+alias free='free -m'
+alias np='nano -w PKGBUILD'
+alias more=less
+alias open='xdg-open &> /dev/null'
+alias html-refresh='browser-sync start --server --files "*/*"'
+alias save-git-pass='git config --global credential.helper "cache --timeout=3600"'
+alias android-emulator="$HOME/Android/Sdk/tools/emulator -avd vemidoc -use-system-libs"
+alias set-watchman='echo 256 | sudo tee -a /proc/sys/fs/inotify/max_user_instances &&
+                    echo 32768 | sudo tee -a /proc/sys/fs/inotify/max_queued_events &&
+                    echo 65536 | sudo tee -a /proc/sys/fs/inotify/max_user_watches'

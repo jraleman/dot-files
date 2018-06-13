@@ -1,5 +1,4 @@
 #!/bin/sh
-
 #
 # ~/.Xclients
 #
@@ -7,4 +6,3 @@
 #
 
 /bin/bash --login -i ~/.xinitrc
-
