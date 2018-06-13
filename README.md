@@ -45,6 +45,7 @@ setup... always read the files so you know what's supposed to do.
 
 Guys, your dotfiles are awesome. Keep up the good work! :D
 
+* [giacomoguiulfo](https://github.com/giacomoguiulfo)
 * [nicksp](https://github.com/nicksp/dotfiles)
 * [pbondoer](https://github.com/pbondoer/dotfiles)
 * [erikdubois](https://github.com/erikdubois)
