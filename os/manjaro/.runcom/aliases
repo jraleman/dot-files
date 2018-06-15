@@ -12,3 +12,4 @@ alias android-emulator="$HOME/Android/Sdk/tools/emulator -avd vemidoc -use-syste
 alias set-watchman='echo 256 | sudo tee -a /proc/sys/fs/inotify/max_user_instances &&
                     echo 32768 | sudo tee -a /proc/sys/fs/inotify/max_queued_events &&
                     echo 65536 | sudo tee -a /proc/sys/fs/inotify/max_user_watches'
+alias battery-status='upower -i $(upower -e | grep "/battery") | grep --color=never -E "state|to\ full|to\ empty|percentage"'
