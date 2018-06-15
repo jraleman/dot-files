@@ -6,57 +6,57 @@ Xft.autohint: false
 Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 
-XTerm*background: #2b2b2b
-XTerm*foreground: #e7e7e7
-XTerm*pointerColor: #16A085
+XTerm*background: #1d1f21
+XTerm*foreground: #c5c8c6
+XTerm*pointerColor: #c5c8c6
 XTerm*faceName: Fixed
 XTerm*faceSize: 11
 
-*background:                      #272827
-*foreground:                      #657b83
+*background:                      #1d1f21
+*foreground:                      #c5c8c6
 *fading:                          15
 *fadeColor:                       black
-*cursorColor:                     #16A085
-*pointerColorBackground:          #2B2C2B
-*pointerColorForeground:          #16A085
+*cursorColor:                     #c5c8c6
+*pointerColorBackground:          #1d1f21
+*pointerColorForeground:          #c5c8c6
 
 !! black dark/light
-*color0:                          #232423
-*color8:                          #282928
+*color0:                          #282a2e
+*color8:                          #373b41
 
 !! red dark/light
-*color1:                          #BA2922
-*color9:                          #CC372C
+*color1:                          #a54242
+*color9:                          #cc6666
 
 !! green dark/light
-*color2:                          #7E807E
-*color10:                         #8D8F8D
+*color2:                          #8c9440
+*color10:                         #8c9440
 
 !! yellow dark/light
-*color3:                          #4C4F4D
-*color11:                         #4E524F
+*color3:                          #de935f
+*color11:                         #f0c674
 
 !! blue dark/light
-*color4:                          #16A085
-*color12:                         #13BF9D
+*color4:                          #5f819d
+*color12:                         #81a2be
 
 !! magenta dark/light
-*color5:                          #43746A
-*color13:                         #487D72
+*color5:                          #85678f
+*color13:                         #b294bb
 
 !! cyan dark/light
-*color6:                          #00CCCC
-*color14:                         #00D1D1
+*color6:                          #5e8d87
+*color14:                         #8abeb7
 
 !! white dark/light
-*color7:                          #E0E0E0
-*color15:                         #E8E8E8
+*color7:                          #707880
+*color15:                         #c5c8c6
 
 Xcursor.theme: xcursor-breeze-snow
 Xcursor.size:                     0
 
-XTerm*background:                 #272827
-XTerm*foreground:                 #fdf6e3
+XTerm*background:                 #1d1f21
+XTerm*foreground:                 #c5c8c6
 XTerm*reverseVideo:               on
 XTerm*faceName:                   Terminus:size=11:antialias=true
 XTerm*selectToClipboard:          true
