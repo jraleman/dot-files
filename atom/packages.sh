@@ -20,6 +20,7 @@ list=("ascii-lines-sort" \
       "todo-show")
 
 # Install each package one by one.
-for pkgs in ${list[@]} do
+for pkgs in ${list[@]}
+do
     apm install $pkgs
 done

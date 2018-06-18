@@ -5,6 +5,7 @@ list=("seti-ui" \
       "seti-syntax")
 
 # Install each theme one by one.
-for theme in ${list[@]} do
+for theme in ${list[@]}
+do
     apm install $theme
 done
