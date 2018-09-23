@@ -5,4 +5,8 @@
 # xrandr --output HDMI-0 --mode 1920x1080i
 
 # Disable click on tap touchpad
-xinput --disable "SynPS/2 Synaptics TouchPad"
+# xinput list
+#   > ⎜   ↳ ETPS/2 Elantech Touchpad                	id=11	[slave  pointer  (2)]
+# xinput list-props 11
+#   > libinput Tapping Enabled (282):	1
+xinput set-prop 11 282 0
