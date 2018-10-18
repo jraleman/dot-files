@@ -59,6 +59,11 @@ for pkg in node htop tree bower valgrind; do
     fi
 done
 
+# Spacemacs
+brew tap d12frosted/emacs-plus
+brew install emacs-plus --HEAD --with-natural-title-bars
+brew linkapps emacs-plus
+
 # ---------------------------------------------------------------------------- #
 # Brew                                                                         #
 # ---------------------------------------------------------------------------- #
