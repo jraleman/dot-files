@@ -12,5 +12,6 @@ alias refresh='browser-sync start --server --files "*/*"'
 alias vs-code='open -a ~/Applications/Visual\ Studio\ Code.app'
 alias vscode='vs-code'
 alias dropplet='open -a /Applications/Utilities/Digital\ Color\ Meter.app/'
+alias skype='open -a ~/Applications/Skype.app/'
 
 # ====================================================================== Aliases
